@@ -1,0 +1,22 @@
+{
+  "name": "times-futebol",
+  "version": "1.0.0",
+  "description": "criar, atualizar e deletar times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimaSuyanne/Crud-Times-Futebol-NodeJs.git"
+  },
+  "author": "suyanne lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimaSuyanne/Crud-Times-Futebol-NodeJs/issues"
+  },
+  "homepage": "https://github.com/LimaSuyanne/Crud-Times-Futebol-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
